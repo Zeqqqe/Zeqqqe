@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hello, user!
+- I'm a **starting off coder**, i'm familiar with `Python`, `VS Code`, `Visual Studio`, `ffmpeg`, `Git`, `yt-dlp`, `pip (Python's Package Manager)`, and `GitHub`.
 
-<!--
-**ackozu/ackozu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Info About Me:
+- Pronouns: `he/they`
+- Gender: `Male`
+- Links: [Lnk.bio](lnk.at/ackozu)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+ ### Evil Goblin:
+ 
+ ![Jinx The Cat](https://media.discordapp.net/stickers/1123645034219176057.png?size=160&name=jinx) ![Jinx The Cat](https://media.discordapp.net/stickers/1123645034219176057.png?size=160&name=jinx) ![Jinx The Cat](https://media.discordapp.net/stickers/1123645034219176057.png?size=160&name=jinx) ![Jinx The Cat](https://media.discordapp.net/stickers/1123645034219176057.png?size=160&name=jinx) ![Jinx The Cat](https://media.discordapp.net/stickers/1123645034219176057.png?size=160&name=jinx)
