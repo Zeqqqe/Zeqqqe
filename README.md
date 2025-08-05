@@ -9,4 +9,4 @@
  
  # This is a cry for help...
  
-[![This is a cry for help](/assets/cry-for-help-cat.png)](/assets/cry-help-cat.mp4)
+[![This is a cry for help](/assets/cry-for-help-cat.png)](https://c.tenor.com/FqO06m-lHgEAAAAd/tenor.gif)
