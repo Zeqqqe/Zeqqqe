@@ -4,7 +4,7 @@
 ### Info About Me:
 - Pronouns: `he/they`
 - Gender: `Male`
-- Links: [Lnk.bio](lnk.at/ackozu)
+- Links: [Lnk.bio](https://lnk.at/ackozu)
 
  
  # This is a cry for help...
