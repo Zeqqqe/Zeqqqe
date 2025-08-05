@@ -7,6 +7,6 @@
 - Links: [Lnk.bio](lnk.at/ackozu)
 
  
- ### Evil Goblin:
+ # This is a cry for help...
  
- ![Jinx The Cat](https://media.discordapp.net/stickers/1123645034219176057.png?size=160&name=jinx) ![Jinx The Cat](https://media.discordapp.net/stickers/1123645034219176057.png?size=160&name=jinx) ![Jinx The Cat](https://media.discordapp.net/stickers/1123645034219176057.png?size=160&name=jinx) ![Jinx The Cat](https://media.discordapp.net/stickers/1123645034219176057.png?size=160&name=jinx) ![Jinx The Cat](https://media.discordapp.net/stickers/1123645034219176057.png?size=160&name=jinx)
+[![This is a cry for help](/assets/cry-for-help-cat.png)](/assets/cry-help-cat.mp4)
