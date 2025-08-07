@@ -1,5 +1,17 @@
 ## Hello, user!
-- I'm a **starting off coder**, i'm familiar with `Python`, `VS Code`, `Visual Studio`, `ffmpeg`, `Git`, `yt-dlp`, `pip (Python's Package Manager)`, and `GitHub`.
+- I'm a **starting off coder**, i'm familiar with 
+
+| Software/Tool | Description |
+| :--- | :--- |
+| Python | A high-level, general-purpose programming language. |
+| VS Code | A free source-code editor made by Microsoft for Windows, Linux, and macOS. |
+| Visual Studio | An integrated development environment (IDE) from Microsoft. |
+| ffmpeg | A free software project for handling multimedia data. |
+| Git | A distributed version control system for tracking changes in source code. |
+| yt-dlp | A command-line program to download videos from YouTube and other sites. |
+| pip | The standard package manager used to install and manage software packages written in Python. |
+| GitHub | A web-based platform for version control and collaboration using Git. |
+| Markdown | A lightweight markup language for creating formatted text using a plain-text editor. |
 
 ### Info About Me:
 - Pronouns: `he/they`
@@ -10,6 +22,3 @@
  # This is a cry for help...
  
 [![This is a cry for help, Tenor Gif](/assets/cry-for-help-cat.png)](https://c.tenor.com/FqO06m-lHgEAAAAd/tenor.gif)
-
-## And this is a funky fish!
-[![Funky Town Fish, YouTube Video](https://raw.githubusercontent.com/ackozu/ackozu/refs/heads/main/assets/Funky%20Town%20Fish.png)](https://www.youtube.com/watch?v=Vk5G2f3Mnwg)
