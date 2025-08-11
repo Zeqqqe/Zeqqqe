@@ -13,7 +13,7 @@ I'm a starting off coder familiar with the following software and tools:
 | **pip** | The standard package manager used to install and manage software packages written in Python. |
 | **GitHub** | A web-based platform for version control and collaboration using Git. |
 | **Markdown** | A lightweight markup language for creating formatted text using a plain-text editor. |
-
+| **winget** | Windows' built-in command-line package manager. |
 ---
 
 ### Info About Me
