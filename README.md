@@ -18,7 +18,7 @@ I'm a starting off coder familiar with the following software and tools:
 
 ### Info About Me
 
-* **Pronouns**: `he/they`
+* **Pronouns**: `he/him`
 * **Gender**: `Male`
 * **Links**: [Lnk.bio](https://lnk.at/ackozu)
 
