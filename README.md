@@ -20,7 +20,7 @@ I'm a starting off coder familiar with the following software and tools:
 
 * **Pronouns**: `he/him`
 * **Gender**: `Male`
-* **Links**: [Lnk.bio](https://lnk.at/ackozu)
+* **Links**: [link.zeqqe.dev](https://link.zeqqe.dev)
 
 ---
 
