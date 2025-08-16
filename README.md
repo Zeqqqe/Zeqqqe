@@ -24,5 +24,35 @@ I'm a starting off coder familiar with the following software and tools:
 
 ---
 
+### 💀 Some Projects I Made
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧂 <a href="https://github.com/Zeqqqe/meth-clicker">meth-clicker</a> </h3>
+      <p>A simple .html clicker game.</p>
+      <p><code>HTML</code></p>
+    </td>
+    <td width="50%">
+      <h3>🦞 <a href="https://github.com/Zeqqqe/Zoidberg">Zoidberg</a></h3>
+      <p>A simple Python app display a customizable a image of Zoidberg from Futurama.</p>
+      <p><code>Python</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📷 <a href="https://github.com/Zeqqqe/Image-To-ASCII">Image-To-ASCII</a></h3>
+      <p>Allows you turn to a image into ASCII text.</p>
+      <p><code>Python</code></p>
+    </td>
+    <td width="50%">
+      <h3>🎋 <a href="https://gist.github.com/Zeqqqe/fdaa410ac4717578f5165c77b8c50391">Rec Room Banner Changer</a></h3>
+      <p>A tool to change your banner image with the Rec Room API.</p>
+      <p><code>JavaScript</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## This is a cry for help...
 [![This is a cry for help, Tenor Gif](/assets/cry-for-help-cat.png)](https://c.tenor.com/FqO06m-lHgEAAAAd/tenor.gif)
