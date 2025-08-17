@@ -53,6 +53,18 @@ I'm a starting off coder familiar with the following software and tools:
 </table>
 
 ---
+## My Website
+<table>
+  <tr>
+    <td>
+      <h3>👾 <a href="https://zeqqe.dev">zeqqe.devㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</a></h3>
+      <p>A stupid lil' site i made.             ㅤㅤㅤ</p>
+      <p><code>Website</code></p>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## This is a 𝓯𝓻𝓮𝓪𝓴𝔂 cat...
 [![This is a freaky cat, Tenor Gif](https://raw.githubusercontent.com/Zeqqqe/Zeqqqe/refs/heads/main/assets/image%5B1%5D.png)](https://c.tenor.com/pdX9YTI4_eoAAAAd/tenor.gif)
