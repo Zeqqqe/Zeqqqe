@@ -54,5 +54,5 @@ I'm a starting off coder familiar with the following software and tools:
 
 ---
 
-## This is a cry for help...
-[![This is a cry for help, Tenor Gif](/assets/cry-for-help-cat.png)](https://c.tenor.com/FqO06m-lHgEAAAAd/tenor.gif)
+## This is a 𝓯𝓻𝓮𝓪𝓴𝔂 cat...
+[![This is a freaky cat, Tenor Gif](https://raw.githubusercontent.com/Zeqqqe/Zeqqqe/refs/heads/main/assets/image%5B1%5D.png)](https://c.tenor.com/pdX9YTI4_eoAAAAd/tenor.gif)
