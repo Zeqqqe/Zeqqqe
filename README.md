@@ -16,14 +16,6 @@ I'm a starting off coder familiar with the following software and tools:
 | **winget** | Windows' built-in command-line package manager. |
 ---
 
-### Info About Me
-
-* **Pronouns**: `he/him`
-* **Gender**: `Male`
-* **Links**: [link.zeqqe.dev](https://link.zeqqe.dev)
-
----
-
 ### 💀 Some Projects I Made
 <table>
   <tr>
