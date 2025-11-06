@@ -1,4 +1,4 @@
-<p align="center"> <a href="https://www.zeqqe.dev"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=250&size=27&duration=3500&pause=850&color=F7F7F7&center=true&width=435&lines=Heya%2C+I'm+Zeq.;www.zeqqe.dev;I+use+openSUSE+Tumbleweed%2C+btw.;GNU%2BLinux+user..." alt="Heya, I'm Zeq." /></a>
+<p align="center"> <a href="https://zeq.rocks"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=250&size=27&duration=3500&pause=850&color=F7F7F7&center=true&width=435&lines=Heya%2C+I'm+Zeq.;zeq.rocks;I+use+openSUSE+Tumbleweed%2C+btw.;GNU%2BLinux+user..." alt="Heya, I'm Zeq." /></a>
 
 ---
 
